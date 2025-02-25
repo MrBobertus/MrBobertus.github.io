@@ -31,6 +31,6 @@ Here is a visualization of my skill levels. I will be trying to learn more on th
     <li>✦✦✦ Intermediate</li>
     <li>✦✦✦✦ Pro</li>
     <li>✦✦✦✦✦ Master</li>
-    <li>✦✦✦✦✦✦ Can't be reached because you can always learn new stuff in the digital and IRL world</li>
+    <li>✦✦✦✦✦✦ Can't be reached because you can always learn new stuff in the digital and IRL (Problem Solving, etc.) world</li>
   </ul>
 </details>
