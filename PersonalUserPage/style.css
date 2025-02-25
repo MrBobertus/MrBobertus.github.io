@@ -57,11 +57,7 @@ body {
 }
 
 .info-tab p {
-  margin: 10px;
-}
-
-.info-tab h1 {
-  margin: 10px;
+  padding: 10px;
 }
 
 #footer {
