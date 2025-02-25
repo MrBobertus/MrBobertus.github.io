@@ -23,13 +23,11 @@ Think of each "info card" as a little box on your page that shows some informati
 1. **Find the `index.html` File:** (Same as above).
 2. **Find the Card to Remove:** Look for the `<div class="info-tab">` block that you want to get rid of.
 3. **Delete the Code:** Delete *everything* from the `<div class="info-tab">` line to the closing `</div>` line.
-4. **Save and Upload (or "Commit"):** Save the `index.html` file and upload it back to your GitHub repository (or "commit" the changes).
+4. **Save:** Save the `index.html` file.
 
 ## Important Tips!
 
 *   **Be Careful!** When you're editing the `index.html` file, be careful not to accidentally delete anything important. If you're not sure, ask someone for help!
 *   **Ask for Help!** If you get stuck, don't be afraid to ask for help from someone who knows a bit about HTML.
-*   **"Save" is Important:**  Make sure you save your changes *after* you edit the `index.html` file!
-*   **Upload/Commit to See Changes:** Your changes won't appear on your webpage until you upload the updated `index.html` file to your GitHub repository.
 
-That's it!  Have fun customizing your Personal User Page!
+That's it!
