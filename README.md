@@ -23,7 +23,7 @@ I'm a developer dedicated to building innovative and helpful projects. I'm passi
 *   Python:      ⌀
 
 **More information:**
-Here is a visualization of my skill levels. I will be trying to learn more on the already learned section and increase the bars but to atleast 3✦ before i will try to learn something new.
+Here is a visualization of my skill levels. I will be trying to learn more on the already learned section and increase the bars to atleast 3✦ before i will try to learn something new.
 
 <details>
   <summary>Skill Level Guide</summary>
