@@ -32,6 +32,9 @@ Customize the "code" to fit your specific needs.
 
 Credit the original author (that’s me!) in your project’s documentation or credits section.
 
+**Why don't you just upload the website to GitHub so we can see the website?**
+A: Basicly because GitHub allows only one webpage like username.github.io and if i could i would do it but yea...
+
 ## Support the Developer
 As a solo developer, I’m constantly learning and improving. If you find these scripts helpful, consider:
 
