@@ -4,26 +4,26 @@ I'm a software developer dedicated to building innovative and helpful projects. 
 
 **Featured Projects:**
 
-*   **[Project Name 1]:** [Brief description. Highlight key features and technologies.] [Link to GitHub repo or live demo]
+*   **Personal User Page:** Basic webpage where a user can introduce himself and tell a story or even list his skills. Here is the [Live Demo](https://mrbobertus.github.io/PersonalUserPage/)
 
 **Skills:**
 
 *   **Languages:**
-    *   Java:       ✦✦ (Basic Knowledge)
-    *   Lua:        ✦✦ (Basic Knowledge)
-    *   HTML:       ✦✦✦ (Intermediate)
-    *   JavaScript: ✦✦✦ (Intermediate)
-    *   CSS:        ✦✦ (Basic Knowledge)
+    *   Java:       ✦✦
+    *   Lua:        ✦✦
+    *   HTML:       ✦✦✦
+    *   JavaScript: ✦✦✦
+    *   CSS:        ✦✦
 
 **Planned Learning:**
 
-*   C / C++:     ⌀  (Planned but haven't touched it yet)
-*   Node.js:     ⌀  (Planned but haven't touched it yet)
-*   React:       ⌀  (Planned but haven't touched it yet)
-*   Python:      ⌀  (Planned but haven't touched it yet)
+*   C / C++:     ⌀
+*   Node.js:     ⌀
+*   React:       ⌀
+*   Python:      ⌀
 
 **More information:**
-Here is a visualization of my skill levels. I will be trying to learn more on the planned section and increase the bars. You can never be reached so as you learn new things the bars will increase.
+Here is a visualization of my skill levels. I will be trying to learn more on the already learned section and increase the bars but to atleast 3✦ before i will try to learn something new.
 
 <details>
   <summary>Skill Level Guide</summary>
