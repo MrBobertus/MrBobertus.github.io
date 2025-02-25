@@ -56,7 +56,11 @@ body {
   margin-top: 40px;
 }
 
-.info-tab p h1 {
+.info-tab p {
+  padding: 10px;
+}
+
+.info-tab h1 {
   padding: 10px;
 }
 
