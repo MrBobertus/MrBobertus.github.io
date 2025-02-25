@@ -1,4 +1,4 @@
-# Personal User Page (PUP) - Easy Guide!
+# Personal User Page (PUP) - Documentation
 
 This guide will show you how to make changes to your Personal User Page, even if you don't know much about coding!
 
