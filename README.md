@@ -1,6 +1,6 @@
 ## Welcome!
 
-I'm a software developer dedicated to building innovative and helpful projects. I'm passionate about Coding, Gaming, making Videos and also just helping other people. That is the reason why i am on GitHub because i want to share my learning process and maybe want to give you something helpful
+I'm a developer dedicated to building innovative and helpful projects. I'm passionate about Coding, Gaming, making Videos and also just helping other people. That is the reason why i am on GitHub because i want to share my learning process and maybe want to give you something helpful
 
 **Featured Projects:**
 
