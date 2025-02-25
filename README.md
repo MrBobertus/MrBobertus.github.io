@@ -1,29 +1,39 @@
-# More Detailed Information in each Website Folder
+## Welcome!
 
-## License
-All content in this repository is licensed under the Creative Commons Attribution-ShareAlike (CC-BY-SA) License. This means you are free to:
+I'm a software developer dedicated to building innovative and helpful projects. I'm passionate about Coding, Gaming, making Videos and also just helping other people. That is the reason why i am on GitHub because i want to share my learning process and maybe want to give you something helpful
 
-Share — Copy and redistribute the material in any medium or format.
+**Featured Projects:**
 
-Adapt — Remix, transform, and build upon the material for any purpose, even commercially.
+*   **[Project Name 1]:** [Brief description. Highlight key features and technologies.] [Link to GitHub repo or live demo]
 
-## Under the following terms:
+**Skills:**
 
-Attribution — You must give appropriate credit, provide a link to the license, and indicate if changes were made.
+*   **Languages:**
+    *   Java:       ✦✦ (Basic Knowledge)
+    *   Lua:        ✦✦ (Basic Knowledge)
+    *   HTML:       ✦✦✦ (Intermediate)
+    *   JavaScript: ✦✦✦ (Intermediate)
+    *   CSS:        ✦✦ (Basic Knowledge)
 
-ShareAlike — If you remix, transform, or build upon the material, you must distribute your contributions under the same license as the original.
+**Planned Learning:**
 
-For more details, check out the full license [here](https://creativecommons.org/licenses/by-sa/4.0/).
+*   C / C++:     ⌀  (Planned but haven't touched it yet)
+*   Node.js:     ⌀  (Planned but haven't touched it yet)
+*   React:       ⌀  (Planned but haven't touched it yet)
+*   Python:      ⌀  (Planned but haven't touched it yet)
 
-## Support the Developer
-As a solo developer, I’m constantly learning and improving. If you find these scripts helpful, consider:
+**More information:**
+Here is a visualization of my skill levels. I will be trying to learn more on the planned section and increase the bars. You can never be reached so as you learn new things the bars will increase.
 
-Starring this repository to show your appreciation.
-
-Sharing your projects that use the algorithms and programs—I’d love to see what you create!
-
-Providing Feedback or suggestions for improvement.
-
-Thank you for checking out this webpage.
-
-[MrBobertus]
+<details>
+  <summary>Skill Level Guide</summary>
+  <ul>
+    <li>⌀ Planned but haven't touched it yet</li>
+    <li>✦ Learning</li>
+    <li>✦✦ Basic Knowledge</li>
+    <li>✦✦✦ Intermediate</li>
+    <li>✦✦✦✦ Pro</li>
+    <li>✦✦✦✦✦ Master</li>
+    <li>✦✦✦✦✦✦ Can't be reached because you can always learn new stuff in the digital and IRL world</li>
+  </ul>
+</details>
