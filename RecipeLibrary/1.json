@@ -1,0 +1,36 @@
+{
+  "id": 1,
+  "name": "Tarte au Chocolat",
+  "info": [
+    "Arbeitszeit: 15 Minuten",
+    "Backzeit: 30 Minuten",
+    "Gesamtzeit: 45 Minuten"
+  ],
+  "zutaten": [
+    "200g Butter",
+    "200g Vollmilchschokolade",
+    "100g Schokolade gehakt",
+    "100g Puderzucker",
+    "4 Eier",
+    "1 Pck. Schokoladenpuddingpulver",
+    "1/2 TL Backpulver",
+    "1 Pck. Vanillezucker",
+    "1 Prise Salz",
+    "Evt. Fett"
+  ],
+  "ablauf": [
+    "Butter und Schokolade unter Rühren schmelzen, dann abkühlen lassen.",
+    "Kakaopulver, Speisestärke und Backpulver mischen. Puddingpulver ersetzt Stärke und Kakao.",
+    "Eier, Vanillezucker, Salz und Zucker cremig schlagen.",
+    "Schokoladen-Buttermasse langsam unterrühren oder mit einem Löffel unterheben.",
+    "Gehackte Schokolade einrühren.",
+    "Kakao-Stärke-Mischung oder Puddingpulver unterheben.",
+    "Teig in eine gefettete Spring- oder Tarteform füllen.",
+    "Bei 175 °C Ober-/Unterhitze 20–25 Minuten backen.",
+    "Nach dem Backen abkühlen lassen, da der Kuchen weich ist.",
+    "Nach Belieben mit einem Guss verzieren.",
+    "Alternativ gehackte Nüsse oder schokolierte Kaffeebohnen verwenden.",
+    "Dunkle Schokolade braucht mehr Zucker. Bei 85 % Schokolade 130–150 g Zucker nutzen."
+  ],
+  "bild": "https://img.chefkoch-cdn.de/rezepte/820931186577689/bilder/965164/crop-960x640/tarte-au-chocolat.jpg"
+}
