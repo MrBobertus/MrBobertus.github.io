@@ -10,7 +10,6 @@ function clicked(button) {
   button.innerHTML = '<i class="fa-solid fa-check"></i>';
   button.classList.toggle("rotate");
   
-  var id = "1OQYGhQ66wjV4Tni9W7SIlg-aNhFSPrio";
-  var downloadURL = `https://drive.usercontent.google.com/uc?id=${id}&authuser=0&export=download`;
+  var downloadURL = `https://t4.ftcdn.net/jpg/02/66/72/41/360_F_266724172_Iy8gdKgMa7XmrhYYxLCxyhx6J7070Pr8.jpg`;
   window.location.href = downloadURL;
 }
