@@ -9,21 +9,45 @@ I want to make it so you can easily create recipes through a web interface
 
 ## Language of code:
 The code inside this repository is written using the language HTML, CSS and JavaScript which is are specific "coding" languages that are used for websites.
-
 ## License
-All content in this repository is licensed under the Creative Commons Attribution-ShareAlike (CC-BY-SA) License. This means you are free to:
 
-Share — Copy and redistribute the material in any medium or format.
+This project is licensed under a modified MIT License.  It is free for personal,
+non-commercial use and modification.
 
-Adapt — Remix, transform, and build upon the material for any purpose, even commercially.
+**Commercial use is strictly prohibited without prior written permission.**
 
-## Under the following terms:
+To obtain permission for commercial use, please contact MrBobertus at [mr.bobertus.dev@gmail.com].
 
-Attribution — You must give appropriate credit, provide a link to the license, and indicate if changes were made.
+<details>
+  <summary>Full License</summary>
 
-ShareAlike — If you remix, transform, or build upon the material, you must distribute your contributions under the same license as the original.
-
-For more details, check out the full license [here](https://creativecommons.org/licenses/by-sa/4.0/).
+  ## Modified MIT License
+  
+  Copyright (c) 2025 MrBobertus
+  
+  Permission is hereby granted, free of charge, to any person obtaining a copy
+  of this software and associated documentation files (the "Software"), to deal
+  in the Software without restriction, including without limitation the rights
+  to use, copy, modify, merge, publish, distribute, sublicense, and/or distribute
+  copies of the Software, and to permit persons to whom the Software is
+  furnished to do so, subject to the following conditions:
+  
+  The above copyright notice and this permission notice shall be included in all
+  copies or substantial portions of the Software.
+  
+  **Non-Commercial Use Only Without Prior Permission:**  This software may be used
+  and modified freely for personal, non-commercial purposes.  Commercial use
+  is strictly prohibited *without* prior written permission from the copyright
+  holder (MrBobertus).
+  
+  THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+  IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+  FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+  AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+  LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+  OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+  SOFTWARE.
+</details>
 
 ## How to Use
 Clone or Download the repository to your local machine.
