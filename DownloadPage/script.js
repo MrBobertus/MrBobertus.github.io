@@ -1,8 +1,8 @@
 function wait(ms) {
   return new Promise(resolve => setTimeout(resolve, ms));
 }
-
-function clicked(button) {
+  
+async function clicked(button) {
   button.style.backgroundColor = "lightgreen";
   button.style.color = "green";
   button.innerHTML = '<i class="fa-solid fa-check"></i>';
@@ -12,3 +12,4 @@ function clicked(button) {
   await wait(3000);
   window.location.href = downloadURL;
 }
+  
