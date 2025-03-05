@@ -4,6 +4,10 @@ if (input != "TXI4MDg=") {
 	window.location.href = "https://http.cat/401";
 }
 
+function wait(ms) {
+  return new Promise(resolve => setTimeout(resolve, ms));
+}
+
 function clicked(button) {
   button.style.backgroundColor = "lightgreen";
   button.style.color = "green";
