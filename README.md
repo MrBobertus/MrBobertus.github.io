@@ -12,7 +12,7 @@ I'm a developer dedicated to building innovative and helpful projects. I'm passi
 
 *   **Languages:**
     *   Java:       ✦✦
-    *   Lua:        ✦✦
+    *   Lua:        ✦✦✦
     *   HTML:       ✦✦✦
     *   JavaScript: ✦✦✦
     *   CSS:        ✦✦
