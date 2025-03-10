@@ -1,5 +1,5 @@
 # Recipe Library
-Welcome to the RL! This is a website which i have created while i was trying some HTML, CSS and JavaScript. Feel free to use this Website in your own projects. However, there’s one simple condition: **credit must be given to me**.
+Welcome to the RL! This is a website which i have created while i was trying some HTML, CSS and JavaScript. Feel free to use this Website in your own projects. This project is licensed for non-commercial use only, unless you obtain permission from the copyright holder (MrBobertus), and requires attribution. See the [LICENSE](https://github.com/MrBobertus/Important-Documents/blob/main/MLCL%20-%20MrBobertus%20Limited%20Commercial%20License.md) file for details.
 
 ## What’s Inside?
 This is a website where you can see different recipes
