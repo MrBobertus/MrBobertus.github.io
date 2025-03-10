@@ -37,6 +37,8 @@ Here is a visualization of my skill levels. I will be trying to learn more on th
   </ul>
 </details>
 
+## Legal Area
+
 ### Any of these projects, websites, files or any other related assets are licensed under the [(MLCL) MrBobertus Limited Commercial License](https://github.com/MrBobertus/Important-Documents/blob/main/MLCL%20-%20MrBobertus%20Limited%20Commercial%20License.md) except you get permission from the copyright holder.
 
 ### For commercial permission requests or general inquiries, please contact me via email at mr.bobertus.dev@gmail.com.
