@@ -1,4 +1,4 @@
-*[Old/First Webpage]*
+*[First Webpage]*
 # Personal User Page Website Template
 Welcome to the PUP! This is a website which i have created while i was trying some HTML and CSS. You can see this when you go into the script.js file. Feel free to use this Website in your own projects. This project is licensed for non-commercial use only, unless you obtain permission from the copyright holder (MrBobertus), and requires attribution. See the [LICENSE](https://github.com/MrBobertus/Important-Documents/blob/main/MLCL%20-%20MrBobertus%20Limited%20Commercial%20License.md) file for details. As a solo developer who’s just starting out, your support and acknowledgment mean a lot to me!
 
@@ -6,7 +6,7 @@ Welcome to the PUP! This is a website which i have created while i was trying so
 This is a simple webpage where you can introduce you to people through your own website
 
 ## Future
-Its simple my plans are maybe to add another page to it where its like a pricing plan or contacting forum maybe with an API (like discord webhooks, who knows...)
+Rework it or make a completely new version of it.
 
 ## Language of code:
 The code inside this repository is written using the language HTML and CSS which is are specific "coding" languages that are used for websites.
