@@ -9,7 +9,7 @@ I'm a developer dedicated to building innovative and helpful projects. I'm passi
 *   **Recipe Library:** Basic webpage where recipes are displayed. Here is the [Live Demo](https://mrbobertus.github.io/RecipeLibrary/)
 *   **Random Dev Memes:** Random memes from reddit like developer memes. Here is the [Live Demo](https://github.com/MrBobertus/MrBobertus.github.io/tree/main/RandomDevMemes)
 
-** Special Projects:**
+**Special Projects:**
 *   **WatchArtCreations:** An online shop where me and my friends sell modded watches and where I am managing the online shop. Here is the [Live Shop](https://watchartcreations.com/)
 
 **Skills:**
