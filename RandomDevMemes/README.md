@@ -18,7 +18,7 @@ This project is licensed under the **MrBobertus Limited Commercial License (MLCL
 
 To obtain permission for commercial use, please contact MrBobertus at mr.bobertus.dev@gmail.com.
 
-**⚠ If the developer of the API endpoint requests that I cease using it, please contact me at mr.bobertus.dev@gmail.com. In such a case, any commercial licenses granted for the use of this API endpoint will be immediately revoked.**
+**⚠ If the developer of the API endpoint requests that I cease using it, please contact me at mr.bobertus.dev@gmail.com. In such a case, any commercial licenses granted for the use of this API endpoint will be revoked.**
 
 See the [LICENSE](https://github.com/MrBobertus/Important-Documents/blob/main/MLCL%20-%20MrBobertus%20Limited%20Commercial%20License.md) file for the full license text.
 
