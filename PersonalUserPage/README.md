@@ -20,6 +20,8 @@ To obtain permission for commercial use, please contact MrBobertus at mr.bobertu
 
 See the [LICENSE](https://github.com/MrBobertus/Important-Documents/blob/main/MLCL%20-%20MrBobertus%20Limited%20Commercial%20License.md) file for the full license text.
 
+### ⚠ I hereby grant commercial use permission to anyone who obtains a copy of the files contained within the "PersonalUserPage" folder. This permission applies exclusively to the files within the "PersonalUserPage" folder and does not extend to any other files or assets. ⚠
+
 ## How to Use
 Clone or Download the repository to your local machine.
 
