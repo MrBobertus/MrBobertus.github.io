@@ -1,48 +1,53 @@
-## Welcome!
+# MrBobertus's Web Projects
 
-I'm a developer dedicated to building innovative and helpful projects. I'm passionate about Coding, Gaming, making Videos and also just helping other people. That is the reason why i am on GitHub because i want to share my learning process and maybe want to give you something helpful
+Welcome! I'm MrBobertus, an aspiring developer with a passion for building user-friendly and visually appealing web experiences.  I'm currently focused on honing my skills in Java and JavaScript, and I also enjoy exploring game development concepts. This repository contains my portfolio website and several other webpage projects.
 
-**Featured Projects:**
+## Repository Structure
 
-*   **Personal User Page:** Basic webpage where a user can introduce himself and tell a story or even list his skills. Here is the [Live Demo](https://mrbobertus.github.io/PersonalUserPage/)
-*   **Suspicious Download Button:** Wierd looking download button with a cool little animation. Here is the [Live Demo](https://mrbobertus.github.io/DownloadPage/)
-*   **Recipe Library:** Basic webpage where recipes are displayed. Here is the [Live Demo](https://mrbobertus.github.io/RecipeLibrary/)
-*   **Random Dev Memes:** Random memes from reddit like developer memes. Here is the [Live Demo](https://github.com/MrBobertus/MrBobertus.github.io/tree/main/RandomDevMemes)
+This repository is organized as follows:
 
-**Special Projects:**
-*   **WatchArtCreations:** An online shop where me and my friends sell modded watches and where I am managing the online shop. Here is the [Live Shop](https://watchartcreations.com/)
+*   [`portfolio/`](portfolio/): My main portfolio website, showcasing my skills and projects. You can view it live [here](https://yourusername.github.io).
+*   [`projects/`](projects/): A collection of individual projects, demonstrating various techniques and technologies:
+    *   [`projects/web-dev/`](projects/web-dev/): Web and application development projects, primarily using HTML, CSS, JavaScript, and Java.
+    *   [`projects/game-dev/`](projects/game-dev/): Game development projects.
 
-**Skills:**
+## Portfolio
+
+My portfolio website is a live demonstration of my front-end development skills (HTML, CSS, and JavaScript). It provides an overview of my experience and links to my key projects.
+
+*   **Live Site:** [https://yourusername.github.io](https://yourusername.github.io) (or your custom domain if you have one)
+*   **Source Code:** [`portfolio/`](portfolio/)
+
+## Projects
+
+Below are some of the individual webpage projects included in this repository. Each project has its own `README.md` file with more details.
+
+*   **[Animated Download Button](projects/web-dev/animated-download-button/):**  A visually engaging download button with custom CSS animations. ([Live Demo](https://mrbobertus.github.io/projects/web-dev/animated-download-button/))
+
+## Skills
+
+I'm proficient in the following technologies:
 
 *   **Languages:**
-    *   Java:       ✦✦
-    *   Lua:        ✦✦✦
-    *   HTML:       ✦✦✦
-    *   JavaScript: ✦✦✦
-    *   CSS:        ✦✦
-    *   C / C++:     ⌀
-    *   Node.js:     ⌀
-    *   React:       ⌀
-    *   Python:      ⌀
+    *   Java
+    *   JavaScript
+    *   HTML
+    *   CSS
 
-**More information:**
-Here is a visualization of my skill levels. I will be trying to learn more on the already learned section and increase the bars to atleast 3✦ before i will try to learn something new.
+## Licensing
 
-<details>
-  <summary>Skill Level Guide</summary>
-  <ul>
-    <li>⌀ Planned but haven't touched it yet</li>
-    <li>✦ Learning</li>
-    <li>✦✦ Basic Knowledge</li>
-    <li>✦✦✦ Intermediate</li>
-    <li>✦✦✦✦ Pro</li>
-    <li>✦✦✦✦✦ Master</li>
-    <li>✦✦✦✦✦✦ Can't be reached because you can always learn new stuff in the digital and IRL (Problem Solving, etc.) world</li>
-  </ul>
-</details>
+Each project within this repository has its own `LICENSE` file, specifying the terms of use.
 
-## Legal Area
+*   **Code:** The code (HTML, CSS, JavaScript) for most projects, including the portfolio, is licensed under the **MIT License**. This allows for broad use, modification, and distribution, with attribution.
+*   **Content:** The content (text, images, overall design) of the portfolio website and individual projects is **Copyright © [Year] [Your Name]. All Rights Reserved**, unless otherwise stated in the project's specific `README.md` file. This means you may not copy or reproduce the complete webpage designs without explicit permission.
 
-### Any of these projects, websites, files or any other related assets are licensed under the [(MLCL) MrBobertus Limited Commercial License](https://github.com/MrBobertus/Important-Documents/blob/main/MLCL%20-%20MrBobertus%20Limited%20Commercial%20License.md) except you get permission from the copyright holder.
+*Please see the individual project directories and their `README.md` and `LICENSE` files for complete licensing details.*
 
-### For commercial permission requests or general inquiries, please contact me via email at mr.bobertus.dev@gmail.com.
+## Contact
+
+*   **Email:** mr.bobertus.dev@gmail.com
+*   **GitHub:** [https://github.com/MrBobertus](https://github.com/MrBobertus)
+
+---
+
+*Last updated: 13.03.2025*
