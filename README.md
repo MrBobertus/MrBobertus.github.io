@@ -39,7 +39,7 @@ I'm proficient in the following technologies:
 Each project within this repository has its own `LICENSE` file, specifying the terms of use.
 
 *   **Code:** The code (HTML, CSS, JavaScript) for most projects, including the portfolio, is licensed under the **MIT License**. This allows for broad use, modification, and distribution, with attribution.
-*   **Content:** The content (text, images, overall design) of the portfolio website and individual projects is **Copyright © [Year] [Your Name]. All Rights Reserved**, unless otherwise stated in the project's specific `README.md` file. This means you may not copy or reproduce the complete webpage designs without explicit permission.
+*   **Content:** The content (text, images, overall design) of the portfolio website and individual projects is **Copyright © 2025 MrBobertus. All Rights Reserved**, unless otherwise stated in the project's specific `README.md` file. This means you may not copy or reproduce the complete webpage designs without explicit permission.
 
 *Please see the individual project directories and their `README.md` and `LICENSE` files for complete licensing details.*
 
