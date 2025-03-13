@@ -15,7 +15,7 @@ This repository is organized as follows:
 
 My portfolio website is a live demonstration of my front-end development skills (HTML, CSS, and JavaScript). It provides an overview of my experience and links to my key projects.
 
-*   **Live Site:** [https://MrBobertus.github.io](https://MrBobertus.github.io)
+*   **Live Site:** [https://MrBobertus.github.io/portfolio](https://MrBobertus.github.io/portfolio)
 *   **Source Code:** [`portfolio/`](portfolio/)
 
 ## Projects
