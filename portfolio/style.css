@@ -14,7 +14,7 @@
 body {
   margin: 0;
   padding: 0;
-  height: 300vh;
+  height: 400vh;
 }
 
 .main {
@@ -25,7 +25,7 @@ body {
 .header {
   z-index: 7;
   color: #ffffffe1;
-  text-shadow: #ffffffe0 0px 0px 14px;
+  text-shadow: #ffffffe0 0px 0px 8px;
   font-size: clamp(1rem, 3vw, 2rem);
   font-weight: 700;
   text-align: center;
@@ -33,7 +33,7 @@ body {
 
 .intro {
   color: #ffffffe1;
-  text-shadow: #ffffffe0 0px 0px 14px;
+  text-shadow: #ffffffe0 0px 0px 12px;
   text-align: center;
   display: flex;
   justify-content: center;
@@ -57,7 +57,7 @@ body {
 
 .about {
   color: #ffffffe1;
-  text-shadow: #ffffffe0 0px 0px 14px;
+  text-shadow: #ffffffe0 0px 0px 12px;
   text-align: center;
   display: flex;
   justify-content: center;
@@ -81,7 +81,7 @@ body {
 
 .skills {
   color: #ffffffe1;
-  text-shadow: #ffffffe0 0px 0px 14px;
+  text-shadow: #ffffffe0 0px 0px 12px;
   text-align: center;
   display: flex;
   justify-content: center;
@@ -91,31 +91,116 @@ body {
   flex-direction: column;
 }
 
+.skills h2 {
+  font-size: clamp(2rem, 4vw, 4rem);
+}
+
 .skill-list {
-  width: 80%;
+  width: 45%;
+  border: #fff solid 1px;
+  border-radius: 2vw;
+  box-shadow: 0 0 10px rgba(255, 255, 255, 0.3);
   display: flex;
   flex-direction: row;
   justify-content: center;
   align-items: center;
   flex-wrap: wrap;
   margin-top: 0;
+  padding: 1vw;
+  gap: 3vw;
 }
 
 .skill-list p {
   font-size: clamp(0.875rem, 1.8vw, 1.25rem);
   border: #fff 1px solid;
   border-radius: 2vw;
+  box-shadow: 0 0 10px rgba(255, 255, 255, 0.3);
   padding: 0.3vw;
   padding-left: 1vw;
   padding-right: 1vw;
-  margin: 1.2vw;
-  transition: all 0.3s ease;
+  transition: all 0.2s ease;
   cursor: pointer;
 }
 
 .skill-list p:hover {
-  transform: scale(1.1);
+  transform: scale(1.12);
   background-color: #fff;
+  color: #000
+}
+
+.projects {
+  color: #ffffffe1;
+  text-shadow: #ffffffe0 0px 0px 12px;
+  text-align: center;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 60vh;
+  width: 100vw;
+  flex-direction: column;
+}
+
+.projects h2 {
+  font-size: clamp(2rem, 4vw, 4rem);
+}
+
+.project-list {
+  width: 90%;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  flex-wrap: wrap;
+  gap: 6vw;
+  margin-top: 0;
+}
+
+.project-list p {
+  height: 6vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: clamp(0.875rem, 1.8vw, 1.25rem);
+  border: #fff 1px solid;
+  border-radius: 2vw;
+  box-shadow: 0 0 10px rgba(255, 255, 255, 0.3);
+  padding: 0.3vw;
+  padding-left: 2vw;
+  padding-right: 2vw;
+  transition: all 0.2s ease;
+  cursor: pointer;
+}
+
+.project-list p:hover {
+  transform: scale(1.12);
+  background-color: #fff;
+  color: #000
+}
+
+.contact {
+  color: #ffffffe1;
+  font-size: clamp(0.875rem, 1.8vw, 1.25rem);
+  text-shadow: #ffffffe0 0px 0px 8px;
+  text-align: center;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 50vh;
+  width: 100vw;
+  flex-direction: column;
+}
+
+.end {
+  color: #ffffffe1;
+  text-shadow: #ffffffe0 0px 0px 12px;
+  font-size: clamp(0.875rem, 1.8vw, 1.25rem);
+  text-align: center;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 15vh;
+  width: 100vw;
+  flex-direction: column;
 }
 
 .stars,
@@ -153,6 +238,7 @@ body {
     rgba(0, 0, 0, 0) 75%,
     rgb(0, 0, 0) 100%
   );
+  pointer-events: none
 }
 
 @keyframes move-twink-back {
