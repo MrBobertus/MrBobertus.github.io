@@ -14,7 +14,7 @@
 body {
   margin: 0;
   padding: 0;
-  height: 450vh;
+  height: 420vh;
 }
 
 .main {
@@ -135,7 +135,7 @@ body {
   display: flex;
   justify-content: center;
   align-items: center;
-  height: 100vh;
+  height: 80vh;
   width: 100vw;
   flex-direction: column;
 }
@@ -185,7 +185,7 @@ body {
   display: flex;
   justify-content: center;
   align-items: center;
-  height: 80vh;
+  height: 60vh;
   width: 100vw;
   flex-direction: column;
 }
