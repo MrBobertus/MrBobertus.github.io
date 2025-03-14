@@ -124,7 +124,7 @@ body {
 }
 
 .projects {
-  height: 88vh;
+  height: 92vh;
   width: 100vw;
   display: flex;
   justify-content: center;
@@ -172,7 +172,7 @@ body {
 }
 
 .contact {
-  min-height: 88vh;
+  min-height: 92vh;
   width: 100vw;
   display: flex;
   justify-content: center;
