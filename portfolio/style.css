@@ -269,12 +269,10 @@ button:hover {
   form {
     width: 90%;
   }
-  form button {
-    content: "Submit";
-  }
   .user-data input,
   .contact-data input,
-  .contact-data textarea {
+  .contact-data textarea,
+  form button {
     width: 95%;
   }
 }
