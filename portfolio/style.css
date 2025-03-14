@@ -263,7 +263,8 @@ textarea {
 
 input:focus,
 textarea:focus,
-button:focus {
+button:focus,
+a:focus {
   outline: none;
   border: var(--border-color) 3px dotted;
 }
