@@ -248,7 +248,7 @@ button:focus {
 
 button {
   width: 36%;
-  height: 7%;
+  height: 12%;
   border: var(--border-color) 1px solid;
   background-color: transparent;
   border-radius: 1vw;
