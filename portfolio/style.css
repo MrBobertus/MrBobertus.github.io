@@ -265,3 +265,96 @@ body {
     color: var(--text-color);
   }
 }
+
+.contact {
+  text-align: center;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 68vh;
+  width: 100vw;
+  flex-direction: column;
+}
+
+form {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 70%;
+  gap: 1.5rem;
+}
+
+.user-data {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  width: 48vw;
+  gap: 1.5rem;
+}
+
+.user-data input {
+  width: 39%;
+  min-height: 3vh;
+}
+
+.contact-data {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  width: 48vw;
+  gap: 1.5rem;
+}
+
+.contact-data input,
+textarea {
+  width: 85%;
+  min-height: 3vh;
+}
+
+form input,
+textarea,
+button {
+  border: #fff 1px solid;
+  background-color: transparent;
+  color: var(--text-color);
+  text-shadow: #ffffffe0 0px 0px 14px;
+  border-radius: 1vw;
+  padding: 0.3vw;
+  padding-left: 1vw;
+  padding-right: 1vw;
+  cursor: pointer;
+  resize: none;
+  transition: all 0.3s ease;
+}
+
+input:focus,
+textarea:focus,
+button:focus {
+  outline: none;
+  border: #fff 3px dotted;
+}
+
+form button:hover {
+  transform: scale(1.1);
+  background-color: #fff;
+  color: black;
+}
+
+@media (max-width: 768px) {
+  .user-data {
+    flex-direction: column;
+    width: 90vw;
+  }
+  .contact-data {
+    width: 90vw;
+  }
+  .user-data input,
+  .contact-data input,
+  .contact-data textarea {
+    width: 95%;
+  }
+}
+
