@@ -263,6 +263,12 @@ body {
   flex-direction: column;
 }
 
+.contact h2 {
+  font-size: clamp(3rem, 6vw, 5rem);
+  margin: 0;
+  width: 90%;
+}
+
 form {
   display: flex;
   flex-direction: column;
