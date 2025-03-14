@@ -314,7 +314,7 @@ textarea {
   min-height: 3vh;
 }
 
-form input,
+input,
 textarea,
 button {
   border: #fff 1px solid;
@@ -337,7 +337,7 @@ button:focus {
   border: #fff 3px dotted;
 }
 
-form button:hover {
+button:hover {
   transform: scale(1.1);
   background-color: #fff;
   color: black;
