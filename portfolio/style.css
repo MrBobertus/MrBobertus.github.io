@@ -77,6 +77,28 @@ body {
   width: 70%;
 }
 
+.service {
+  text-align: center;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 88vh;
+  width: 100vw;
+  flex-direction: column;
+}
+
+.service h2 {
+  font-size: clamp(2rem, 4vw, 4rem);
+  margin: 0;
+  width: 70%;
+}
+
+.service p {
+  font-size: clamp(0.875rem, 1.8vw, 1.25rem);
+  margin: 0;
+  width: 70%;
+}
+
 .skills {
   text-align: center;
   display: flex;
