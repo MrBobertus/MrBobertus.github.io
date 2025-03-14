@@ -77,28 +77,6 @@ body {
   width: 70%;
 }
 
-.service {
-  text-align: center;
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  height: 88vh;
-  width: 100vw;
-  flex-direction: column;
-}
-
-.service h2 {
-  font-size: clamp(2rem, 4vw, 4rem);
-  margin: 0;
-  width: 70%;
-}
-
-.service p {
-  font-size: clamp(0.875rem, 1.8vw, 1.25rem);
-  margin: 0;
-  width: 70%;
-}
-
 .skills {
   text-align: center;
   display: flex;
@@ -146,13 +124,13 @@ body {
 }
 
 .projects {
-  text-align: center;
+  height: 88vh;
+  width: 100vw;
   display: flex;
   justify-content: center;
   align-items: center;
-  height: 88vh;
-  width: 100vw;
   flex-direction: column;
+  text-align: center;
 }
 
 .projects h2 {
@@ -204,9 +182,9 @@ body {
 }
 
 .contact h2 {
-  width: 90%;
   font-size: clamp(3rem, 6vw, 5rem);
   margin: 0;
+  width: 70%;
 }
 
 form {
