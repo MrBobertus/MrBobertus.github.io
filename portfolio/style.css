@@ -161,6 +161,7 @@ body {
   padding: 0.3vw;
   padding-left: 2vw;
   padding-right: 2vw;
+  text-decoration: none;
   cursor: pointer;
   transition: all 0.2s ease;
 }
