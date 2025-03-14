@@ -44,7 +44,24 @@
         </div>
         <div class="contact">
             <h2>Contact Me</h2>
-            <p>At the moment i haven't made the contact system fully until then you can contact me under this E-mail: <span style="color: #ff5959; text-shadow: #ff5959e0 0px 0px 8px;">mr.bobertus.dev@gmail.com</span></p>
+            <form action="https://api.web3forms.com/submit" method="POST">
+
+            <input type="hidden" name="access_key" value="853ab4e9-0a5b-4d5f-a8c2-661b7926fabd">
+        
+            <div class="user-data">
+              <input type="text" name="name" placeholder="Name" required>
+              <input type="email" name="email" placeholder="E-Mail" required>
+            </div>
+            <div class="contact-data">
+              <input type="text" name="title" placeholder="Title" required>
+              <textarea name="message" placeholder="Message" rows="8" required></textarea>
+            </div>
+
+            <input type="hidden" name="redirect" value="https://mrbobertus.github.io/portfolio/">
+            <input type="checkbox" name="botcheck" class="hidden" style="display: none;">
+        
+            <button type="submit">Submit Form</button>
+          </form>
         </div>
         <div class="end">
             <p>Last Update on: 13.03.2025 </p>
