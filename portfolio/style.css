@@ -165,7 +165,7 @@ body {
   transition: all 0.2s ease;
 }
 
-.project-list p:hover {
+.project-list a:hover {
   transform: scale(1.12);
   background-color: var(--border-color);
   color: var(--rev-border-color);
