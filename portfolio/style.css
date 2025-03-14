@@ -256,6 +256,7 @@ button {
   padding-left: 1vw;
   padding-right: 1vw;
   cursor: pointer;
+  font-weight: bold;
   transition: all 0.3s ease;
 }
 
