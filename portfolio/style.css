@@ -102,6 +102,7 @@ body {
   justify-content: center;
   align-items: center;
   flex-wrap: wrap;
+  margin-top: 5%;
   gap: 3vw;
 }
 
