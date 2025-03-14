@@ -59,24 +59,25 @@
         </div>
         <div class="contact">
             <h2>Contact Me</h2>
-            <form action="https://api.web3forms.com/submit" method="POST">
-
-            <input type="hidden" name="access_key" value="853ab4e9-0a5b-4d5f-a8c2-661b7926fabd">
+            <div>
+                <form action="https://api.web3forms.com/submit" method="POST">
+                <input type="hidden" name="access_key" value="853ab4e9-0a5b-4d5f-a8c2-661b7926fabd">
         
-            <div class="user-data">
-              <input type="text" name="name" placeholder="Name" required>
-              <input type="email" name="email" placeholder="E-Mail" required>
+                <div class="user-data">
+                  <input type="text" name="name" placeholder="Name" required>
+                  <input type="email" name="email" placeholder="E-Mail" required>
+                </div>
+                <div class="contact-data">
+                  <input type="text" name="title" placeholder="Title" required>
+                  <textarea name="message" placeholder="Message" rows="8" required></textarea>
+                </div>
+    
+                <input type="hidden" name="redirect" value="https://mrbobertus.github.io/portfolio/">
+                <input type="checkbox" name="botcheck" class="hidden" style="display: none;">
+            
+                <button type="submit">Submit Form</button>
+            </form>
             </div>
-            <div class="contact-data">
-              <input type="text" name="title" placeholder="Title" required>
-              <textarea name="message" placeholder="Message" rows="8" required></textarea>
-            </div>
-
-            <input type="hidden" name="redirect" value="https://mrbobertus.github.io/portfolio/">
-            <input type="checkbox" name="botcheck" class="hidden" style="display: none;">
-        
-            <button type="submit">Submit Form</button>
-          </form>
         </div>
         <div class="end">
             <p>Last Update on: 14.03.2025 </p>
