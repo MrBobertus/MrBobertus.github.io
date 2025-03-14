@@ -247,8 +247,8 @@ button:focus {
 }
 
 button {
-  width: 22%;
-  height: 6%;
+  width: 36%;
+  height: 7%;
   border: var(--border-color) 1px solid;
   background-color: transparent;
   border-radius: 1vw;
@@ -271,8 +271,7 @@ button:hover {
   }
   .user-data input,
   .contact-data input,
-  .contact-data textarea,
-  form button {
+  .contact-data textarea {
     width: 95%;
   }
 }
