@@ -12,15 +12,14 @@ A sleek and modern homepage designed for a luxury watch shop. This project featu
 ![WatchMaster Preview](images/watch-preview.png)  
 📌 *Live Demo:* [Insert Link Here]  
 
-## 📂 Project Structure  
-/project-root │── index.html # Main HTML file
-│── style.css # Styling (CSS)
-│── script.js # Interactive features (JS)
-│── /images # Asset folder for images
-
-markdown
-Copy
-Edit
+## 📺 Project Structure  
+```
+/project-root
+│── index.html        # Main HTML file  
+│── style.css         # Styling (CSS)  
+│── script.js         # Interactive features (JS)  
+│── /images           # Asset folder for images  
+```
 
 ## 🛠️ Technologies Used  
 - HTML5  
@@ -31,3 +30,10 @@ Edit
 1. Clone this repository:  
    ```sh
    git clone https://github.com/your-username/watchmaster-site.git
+   ```
+2. Open `index.html` in your browser.  
+
+## 📧 Contact  
+Made by **MrBobertus**  
+📩 Email: mr.bobertus.dev@gmail.com
+🌍 Portfolio: https://MrBobertus.github.io/portfolio
