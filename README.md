@@ -6,7 +6,7 @@ Welcome! I'm MrBobertus, an ambitious developer with a passion for building user
 
 This repository is organized as follows:
 
-*   [`portfolio/`](portfolio/): My main portfolio website, showcasing my skills and projects. You can view it live [here](https://yourusername.github.io).
+*   [`portfolio/`](portfolio/): My main portfolio website, showcasing my skills and projects. You can view it live [here](https://MrBobertus.github.io/portfolio).
 *   [`projects/`](projects/): A collection of individual projects, demonstrating various techniques and technologies:
     *   [`projects/web-dev/`](projects/web-dev/): Web and application development projects, primarily using HTML, CSS, JavaScript, and Java.
     *   [`projects/game-dev/`](projects/game-dev/): Game development projects.
