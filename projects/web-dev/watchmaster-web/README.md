@@ -9,8 +9,8 @@ A sleek and modern homepage designed for a luxury watch shop. This project featu
 - **Interactive Menu** – Slide-in navigation for better UX.  
 
 ## 🖥️ Preview  
-![WatchMaster Preview](images/watch-preview.png)  
-📌 *Live Demo:* [Insert Link Here]  
+![image](https://github.com/user-attachments/assets/88efb86f-2453-45df-b4ba-86ff451f3bb9)
+📌 *Live Demo:* https://mrbobertus.github.io/projects/web-dev/watchmaster-web/  
 
 ## 📺 Project Structure  
 ```
