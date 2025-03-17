@@ -1,6 +1,4 @@
-/* Root Variables for Theming */
 :root {
-  /* Default Dark Theme */
   --bg-color: #000000;
   --text-color: #ffffffe1;
   --rev-text-color: #000000e1;
@@ -10,7 +8,6 @@
   --accent-color: #007bff;
 }
 
-/* Light Theme (Example) */
 .light-theme {
   --bg-color: #f8f9fa;
   --text-color: #212529;
@@ -21,7 +18,6 @@
   --accent-color: #00aaff;
 }
 
-/* General Styles */
 * {
   box-sizing: border-box;
   scroll-behavior: smooth;
@@ -40,7 +36,6 @@ body {
   overflow-x: hidden;
 }
 
-/* Header */
 .header {
   z-index: 999;
   font-size: clamp(1rem, 3vw, 2rem);
@@ -53,7 +48,6 @@ body {
   backdrop-filter: blur(5px);
 }
 
-/* Main Content */
 .main {
   z-index: 2;
   position: relative;
@@ -61,7 +55,6 @@ body {
   padding: 2rem 1rem;
 }
 
-/* Sections (Intro, About, Skills, etc.) */
 .intro,
 .about,
 .skills,
@@ -78,7 +71,6 @@ body {
   width: 100%;
 }
 
-/* Intro Section */
 .intro {
   min-height: 100vh;
 }
@@ -97,7 +89,6 @@ body {
   max-width: 700px;
 }
 
-/* About Section */
 .about h2 {
   font-size: clamp(2rem, 4vw, 4rem);
   margin: 0;
@@ -113,7 +104,6 @@ body {
   line-height: 1.6;
 }
 
-/* Skills Section */
 .skills h2 {
   font-size: clamp(2rem, 4vw, 4rem);
   margin: 0;
@@ -151,7 +141,6 @@ body {
   color: var(--rev-text-color);
 }
 
-/* Projects Section */
 .projects {
   min-height: 76vh;
 }
@@ -195,7 +184,6 @@ body {
   color: var(--rev-text-color);
 }
 
-/* Contact Section */
 .contact {
   min-height: 92vh;
 }
@@ -287,14 +275,12 @@ button:hover {
   border-color: var(--accent-color);
 }
 
-/* End Section */
 .end {
   font-size: clamp(0.875rem, 1.8vw, 1.25rem);
   padding: 1rem;
   min-height: 15vh;
 }
 
-/* Background Stars */
 .stars,
 .twinkling {
   position: fixed;
@@ -359,7 +345,6 @@ button:hover {
   }
 }
 
-/* Media Queries for Responsiveness */
 @media (max-width: 768px) {
   .user-data {
     flex-direction: column;
