@@ -87,7 +87,7 @@ body {
   font-size: clamp(3rem, 6vw, 5rem);
   margin: 0;
   width: 90%;
-  max-width: 800px;
+  max-width: 1200px;
 }
 
 .intro p {
