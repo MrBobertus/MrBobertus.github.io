@@ -133,12 +133,27 @@ body {
   padding: 0.5rem 1rem;
   cursor: pointer;
   transition: all 0.2s ease;
+    display: flex;
+  align-items: center;
+  text-align: center;
+}
+
+.skill-list p img {
+    width: 32px;
+    height: 32px;
+    margin-right: 5px;
+    object-fit: contain;
+    filter: brightness(0) saturate(100%) invert(100%) sepia(100%) saturate(0%) hue-rotate(288deg) brightness(102%) contrast(102%) blur(1px);
 }
 
 .skill-list p:hover {
   transform: scale(1.12);
   background-color: var(--border-color);
   color: var(--rev-text-color);
+}
+
+.skill-list img {
+    margin-right: 5px;
 }
 
 .projects {
@@ -158,30 +173,56 @@ body {
   display: flex;
   flex-direction: row;
   justify-content: center;
-  align-items: center;
+  align-items: flex-start;
   flex-wrap: wrap;
   margin-top: 0.6%;
   gap: 2rem;
 }
 
-.project-list a {
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  font-size: clamp(0.875rem, 1.8vw, 1.25rem);
-  border: var(--border-color) 1px solid;
-  border-radius: 2vw;
-  padding: 0.5rem 1.5rem;
-  text-decoration: none;
-  cursor: pointer;
-  transition: all 0.2s ease;
-  color: var(--text-color);
+.project-item {
+    display: flex;
+    flex-direction: row;
+    border: var(--border-color) 1px solid;
+    border-radius: 2vw;
+    padding: 1rem;
+    width: 45%;
+    cursor: pointer;
+    transition: all 0.2s ease;
+    align-items: flex-start;
 }
 
-.project-list a:hover {
-  transform: scale(1.12);
+
+.project-item:hover {
+  transform: scale(1.05);
   background-color: var(--border-color);
-  color: var(--rev-text-color);
+}
+
+.project-item:hover .project-info h3,
+.project-item:hover .project-info p
+{
+    color: var(--rev-text-color);
+}
+
+.project-item img {
+    width: 150px;
+    height: auto;
+    border-radius: 1vw;
+    margin-right: 1rem;
+}
+
+.project-info {
+    text-align: left;
+    flex-grow: 1;
+}
+
+.project-info h3 {
+    font-size: clamp(1rem, 2vw, 1.5rem);
+    margin-bottom: 0.5rem;
+
+}
+
+.project-info p {
+    font-size: clamp(0.75rem, 1.5vw, 1rem);
 }
 
 .contact {
@@ -363,11 +404,17 @@ button:hover {
     align-items: center;
   }
 
-  .project-list a {
-    width: 80%;
-    max-width: 400px;
-    margin-bottom: 1rem;
-  }
+  .project-item {
+        width: 80%;
+        max-width: 500px;
+        margin-bottom: 1rem;
+        flex-direction: column;
+    }
+    .project-item img{
+        width: 100%;
+        margin-right: 0;
+        margin-bottom: 1rem;
+    }
 
   form {
     width: 95%;
