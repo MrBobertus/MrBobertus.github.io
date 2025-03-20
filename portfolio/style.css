@@ -153,7 +153,7 @@ body {
 }
 
 .skill-list p:hover img {
-    filter: invert(0) blur(1px);
+    filter: brightness(0) saturate(100%) invert(0%) sepia(0%) saturate(0%) hue-rotate(324deg) brightness(96%) contrast(104%) blur(1px);
 }
 
 .skill-list img {
