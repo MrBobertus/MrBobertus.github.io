@@ -146,14 +146,14 @@ body {
     filter: brightness(0) saturate(100%) invert(100%) sepia(100%) saturate(0%) hue-rotate(288deg) brightness(102%) contrast(102%) blur(1px);
 }
 
-.skill-list p img:hover {
-    filter: blur(1px) invert(0);
-}
-
 .skill-list p:hover {
   transform: scale(1.12);
   background-color: var(--border-color);
   color: var(--rev-text-color);
+}
+
+.skill-list p:hover img {
+    filter: invert(0) blur(1px);
 }
 
 .skill-list img {
