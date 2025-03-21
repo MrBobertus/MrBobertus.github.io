@@ -142,7 +142,7 @@ body {
     width: 32px;
     height: 32px;
     margin-right: 5px;
-    object-fit: cover;
+    object-fit: contain;
     filter: brightness(0) saturate(100%) invert(100%) sepia(100%) saturate(0%) hue-rotate(288deg) brightness(102%) contrast(102%) blur(1px);
 }
 
@@ -210,7 +210,7 @@ body {
 .project-item img {
     width: 150px;
     height: 100%;
-    object-fit: contain;
+    object-fit: cover;
     border-radius: 1vw;
     margin-right: 1rem;
 }
