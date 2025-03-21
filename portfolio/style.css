@@ -190,7 +190,8 @@ body {
     border-radius: 2vw;
     padding: 1rem;
     width: 45%;
-    min-height: 200px;
+    min-height: 150px;
+    height: 15%
     cursor: pointer;
     transition: all 0.2s ease;
     align-items: flex-start;
