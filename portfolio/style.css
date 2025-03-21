@@ -209,7 +209,7 @@ body {
 }
 
 .project-item img {
-    height: 20%;
+    height: 100%;
     object-fit: cover;
     border-radius: 1vw;
     margin-right: 1rem;
