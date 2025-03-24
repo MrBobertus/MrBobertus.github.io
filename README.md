@@ -34,6 +34,7 @@ I'm proficient in the following technologies:
     *   JavaScript
     *   HTML
     *   CSS
+    *   Lua
 
 ## Licensing
 
