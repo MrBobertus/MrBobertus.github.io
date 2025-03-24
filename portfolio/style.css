@@ -44,12 +44,8 @@ body {
   padding: 1rem;
   position: sticky;
   top: 0;
-  background-color: rgba(0, 0, 0, 0.8);
-  backdrop-filter: blur(5px);
-}
-
-.header p {
   background-color: transparent;
+  backdrop-filter: blur(5px);
 }
 
 .main {
