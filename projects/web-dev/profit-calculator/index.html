@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Watch Price Calculator</title>
+        <meta charset="UTF-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <link href="https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&display=swap" rel="stylesheet">
+        <link rel="stylesheet" href="style.css">
+    </head>
+    <body>
+        <section class="header">
+            <img src="images/wac.png" alt="wac-logo">
+            <h1>Watch Price Calculator</h1>
+        </section>
+        <section class="main">
+            <div class="calculator">
+                <div class="left-side">
+                    <div class="part">
+                        <img src="images/dial.png" alt="dial">
+                        <div class="data">
+                            <div class="input">
+                                <p>Price</p>
+                                <input type="number" id="price" value="0">
+                            </div>
+                            <div class="input">
+                                <p>Profit</p>
+                                <input type="number" id="profit" value="0">
+                            </div>
+                            <div class="input">
+                                <p>Quantity</p>
+                                <input type="number" id="quantity" value="0">
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="part">
+                        <img src="images/dial.png" alt="dial">
+                        <div class="data">
+                            <div class="input">
+                                <p>Price</p>
+                                <input type="number" id="price" value="0">
+                            </div>
+                            <div class="input">
+                                <p>Profit</p>
+                                <input type="number" id="profit" value="0">
+                            </div>
+                            <div class="input">
+                                <p>Quantity</p>
+                                <input type="number" id="quantity" value="0">
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="right-side">
+                    <p class="bold">Base Price</p>
+                    <p class="thin">+ <span id="pricetab">999.00</span>€</p>
+                    <p class="bold">Profit</p>
+                    <p class="thin">+ <span id="profittab">999.00</span>€</p>
+                    <div class="line"></div>
+                    <p class="bold">Final Price</p>
+                    <p class="thin">= <span id="finaltab">999.00</span>€</p>
+                </div>
+            </div>
+        </section>
+        <section class="bottom">
+            <p>Made by MrBobertus</p>
+            <p>Made for Watch Art Creations</p>
+            <p>All Rights Reserved</p>
+        </section>
+    </body>
+    <footer>
+        <script src="script.js"></script>
+    </footer>
+</html>
