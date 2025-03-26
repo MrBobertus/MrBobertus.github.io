@@ -6,10 +6,10 @@ Welcome! I'm MrBobertus, an ambitious developer with a passion for building user
 
 This repository is organized as follows:
 
-*   [`portfolio/`](portfolio/): My main portfolio website, showcasing my skills and projects. You can view it live [here](https://MrBobertus.github.io/portfolio).
-*   [`projects/`](projects/): A collection of individual projects, demonstrating various techniques and technologies:
-    *   [`projects/web-dev/`](projects/web-dev/): Web and application development projects, primarily using HTML, CSS, JavaScript, and Java.
-    *   [`projects/game-dev/`](projects/game-dev/): Game development projects.
+*   [`portfolio/`](https://github.com/MrBobertus/MrBobertus.github.io/tree/main/portfolio): My main portfolio website, showcasing my skills and projects. You can view it live [here](https://MrBobertus.github.io/portfolio).
+*   [`projects/`](https://github.com/MrBobertus/MrBobertus.github.io/tree/main/projects): A collection of individual projects, demonstrating various techniques and technologies:
+    *   [`projects/web-dev/`](https://github.com/MrBobertus/MrBobertus.github.io/tree/main/projects/web-dev): Web and application development projects, primarily using HTML, CSS, JavaScript, and Java.
+    *   [`projects/game-dev/`](https://github.com/MrBobertus/MrBobertus.github.io/tree/main/projects/game-dev): Game development projects.
 
 ## Portfolio
 
@@ -24,6 +24,7 @@ Below are some of the individual webpage projects included in this repository. E
 
 *   **[Animated Download Button](projects/web-dev/animated-download-button/):**  A visually engaging download button with custom CSS animations. ([Live Demo](https://mrbobertus.github.io/projects/web-dev/animated-download-button/))
 *   **[Watch Master Webpage](projects/web-dev/watchmaster-web/):**  A sleek and modern homepage designed for a luxury watch shop. ([Live Demo](https://mrbobertus.github.io/projects/web-dev/watchmaster-web/))
+*   **[Tiny About Me](projects/web-dev/tiny-about-me/):**  A sleek and modern homepage designed for a luxury watch shop. ([Live Demo](https://mrbobertus.github.io/projects/web-dev/tiny-about-me/))
 
 ## Skills
 
