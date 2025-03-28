@@ -2,9 +2,7 @@ import { autoformatMarkdown } from "./autostyle.js";
 
 const OLLAMA_API_URL = "http://<your-api-url>/api/chat"; // Put your API URL where you can reach OLLAMA
 
-let conversationHistory = [
-  // { role: "", content: "" }
-];
+let conversationHistory = [];
 
 const modelType = document.getElementById("model-select");
 const promptInput = document.getElementById("promptInput");
@@ -15,7 +13,7 @@ send.addEventListener("click", async () => {
   const userPrompt = promptInput.value;
   promptInput.value = "";
   if (!userPrompt) {
-    alert("Bitte gebe einen Prompt ein");
+    alert("Please enter a prompt!");
     return;
   }
 
@@ -31,7 +29,7 @@ send.addEventListener("click", async () => {
       role: "user",
       content: userPrompt,
     });
-    console.log("Chat vergangenheit:", conversationHistory);
+    console.log("Chat history:", conversationHistory);
   }
 
   const requestData = {
@@ -97,7 +95,7 @@ send.addEventListener("click", async () => {
                 newMessage.innerText += chunkText;
               }
             } catch (e) {
-              console.error("Error:", e, "Zeile:", line);
+              console.error("Error:", e, "line:", line);
             }
           }
         });
@@ -109,10 +107,10 @@ send.addEventListener("click", async () => {
         role: "ai",
         content: message,
       });
-      console.log("Chat Vergangenheit:", conversationHistory);
+      console.log("Chat history:", conversationHistory);
     }
   } catch (error) {
-    console.error("Error beim zugriff auf OLLAMA API", error);
+    console.error("Error while trying to access the OLLAMA API", error);
     responseDiv.innerText = "Error: " + error.message;
   }
 });
