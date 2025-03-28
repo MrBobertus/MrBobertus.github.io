@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>PollinGPT</title>
+    <link rel="stylesheet" href="style.css" />
+    <link
+      rel="stylesheet"
+      href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css"
+      integrity="sha512-iecdLmaskl7CVkqkXNQ/ZH/XLlvWZOJyj7Yy7tcenmpD1ypASozpmT/E0iPtmFIB46ZmdtAc9eNBvH0H/ZpiBw=="
+      crossorigin="anonymous"
+      referrerpolicy="no-referrer"
+    />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Rubik:ital,wght@0,300..900;1,300..900&family=Source+Code+Pro:ital,wght@0,200..900;1,200..900&display=swap"
+      rel="stylesheet"
+    />
+  </head>
+  <body>
+    <section class="header">
+      <select id="model-select">
+        <option value="gemma3">Standard</option>
+        <option value="command-r7b">Programming</option>
+        <option value="phi3.5">Fast</option>
+        <option value="gemma3:12b">Testing</option>
+      </select>
+      <p>PollinGPT</p>
+    </section>
+    <section class="main">
+      <div id="responseDiv"></div>
+      <div class="input-group">
+        <textarea
+          id="promptInput"
+          rows="3"
+          cols="150"
+          placeholder="Was möchtest du wissen?"
+          ;
+        ></textarea>
+        <button id="send">
+          <i class="far">&#xf152;</i>
+        </button>
+      </div>
+    </section>
+    <section class="footer">
+      <p>
+        Die KI kann fehler machen deshalb bitte nicht voll auf die antworten
+        vertrauen.
+      </p>
+    </section>
+    <script type="text/html" src="autoformat.js"></script>
+    <script type="module" src="script.js"></script>
+  </body>
+</html>
