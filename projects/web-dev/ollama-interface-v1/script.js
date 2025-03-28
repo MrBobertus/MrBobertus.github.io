@@ -1,7 +1,6 @@
 import { autoformatMarkdown } from "./autostyle.js";
 
-const OLLAMA_API_URL = "http://172.16.100.136:11434/api/chat";
-const modelName = "gemma3";
+const OLLAMA_API_URL = "http://<your-api-url>/api/chat"; // Put your API URL where you can reach OLLAMA
 
 let conversationHistory = [
   // { role: "", content: "" }
