@@ -1,4 +1,4 @@
-## The source code (HTML, CSS, JavaScript) implementing this portfolio website constitutes proprietary information belonging to MrBobertus. No license, express or implied, is granted for the use, reproduction, modification, or distribution of this code. All rights thereto are strictly reserved. Unauthorized use is prohibited.
+## The source code (HTML, CSS, JavaScript) for this portfolio website is proprietary to MrBobertus. While you may inspect the code for educational purposes or inspiration (e.g., to understand how certain features were implemented), it is not licensed for direct copying, reuse, modification, or distribution in other projects. You are encouraged to learn from the techniques demonstrated, but please write your own code based on that understanding. All rights reserved.
 
 ## Copyright © 2025 MrBobertus. All rights reserved regarding the unique visual design, user interface, textual content, and overall compilation of this website. Reproduction, distribution, or adaptation of the design elements or content, in whole or in part, is forbidden without express written authorization from the copyright holder.
 
