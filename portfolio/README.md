@@ -5,7 +5,7 @@
 ### Exclusions:
 The aforementioned copyright restrictions do not apply to:
 
-Image: [Black Star Image](https://imgur.com/XYMF4ca)
-Image: [Star Background](https://imgur.com/YKY28eT)
+Image: https://imgur.com/XYMF4ca
+Image: https://imgur.com/YKY28eT
 
 Third-party logos (such as HTML, CSS, etc.), which remain the property of their respective trademark holders and are used solely for informational purposes.
