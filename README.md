@@ -27,14 +27,25 @@ Below are some of the individual webpage projects included in this repository. E
 
 ## Skills
 
-I'm proficient in the following technologies:
+I have knowledge in the following technologies:
 
-*   **Languages:**
+*   **Programming Languages:**
     *   Java
     *   JavaScript
     *   HTML
     *   CSS
     *   Lua
+
+*   **Self Thaught Legal Skills:**
+    *   Contact Review
+    *   Legal Research
+    *   ToS creation
+ 
+*   **Tools:**
+    *   Visual Studio Code
+    *   IntelliJ IDEA
+    *   Shopify
+    *   Node-RED
 
 ## Licensing
 
