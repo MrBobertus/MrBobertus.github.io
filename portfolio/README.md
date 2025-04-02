@@ -2,7 +2,7 @@
 
 ## Copyright © 2025 MrBobertus. All rights reserved regarding the unique visual design, user interface, textual content, and overall compilation of this website. Reproduction, distribution, or adaptation of the design elements or content, in whole or in part, is forbidden without express written authorization from the copyright holder.
 
-**Exclusions:**
+### Exclusions:
 The aforementioned copyright restrictions do not apply to:
 
     Image: [Black Star Image](https://imgur.com/XYMF4ca)
