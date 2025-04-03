@@ -46,6 +46,7 @@ I have knowledge in the following technologies:
     *   IntelliJ IDEA
     *   Shopify
     *   Node-RED
+    *   TeleportHQ
 
 ## Licensing
 
