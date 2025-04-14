@@ -351,12 +351,12 @@ button:hover {
 
 .stars {
   z-index: 0;
-  background: #000 url("images/static-stars.png") repeat top center;
+  background: #000 url("images/project-images/static-stars.png") repeat top center;
 }
 
 .twinkling {
   z-index: 1;
-  background: transparent url("images/black-stars.png") repeat top center;
+  background: transparent url("images/project-images/black-stars.png") repeat top center;
   animation: move-twink-back 260s linear infinite;
 }
 
