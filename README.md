@@ -1,6 +1,6 @@
 # MrBobertus's GitHub
 
-Welcome! I'm MrBobertus, an ambitious developer with a passion for building user-friendly and visually appealing experiences.  I'm currently focused on honing my skills in Java and JavaScript, and I also enjoy exploring game development concepts. This repository contains my portfolio website and several other webpage projects.
+Welcome! I'm MrBobertus, an ambitious developer with a passion for building user-friendly and visually appealing experiences.  I'm currently focused on honing my skills in Java and JavaScript, and I also enjoy exploring game development concepts. This repository contains my portfolio website and several other projects.
 
 ## Repository Structure
 
