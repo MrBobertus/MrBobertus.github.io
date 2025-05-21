@@ -9,6 +9,12 @@ API_KEY_4 =
 // OpenRouter
 API_KEY_TEST = "XXXXX"
 
+API_URL = "XXXXX";
+API_URL_TEST = "XXXXX";
+DELAY_BETWEEN_CALLS_MS = 5000;
+
+const production = false;
+
 AI_Reasoning = "deepseek/deepseek-chat-v3-0324:free";
 AI_Reasoning_Prompt = `You are a meticulous AI specializing in reasoning and detailed planning. Your primary task is to thoroughly analyze the user's query and produce a comprehensive output that will guide another AI in fulfilling the user's request.
 
@@ -113,12 +119,6 @@ Your task is to:
 Strive to make the content as perfect as possible before outputting it. If the input is truly beyond simple polishing and has fundamental flaws that you cannot reasonably fix within this step, then output the content with your best-effort fixes applied, understanding it might still have issues. (This last point is a fallback, aim for perfection).`;
 
 AI_MODEL_TEST = "llama-3.3-70b-versatile";
-
-API_URL = "XXXXX";
-API_URL_TEST = "XXXXX";
-DELAY_BETWEEN_CALLS_MS = 5000;
-
-const production = false;
 
 async function callOpenRouter(model, apiKey, Prompt, SystemPrompt) {
   if (production == false) {
