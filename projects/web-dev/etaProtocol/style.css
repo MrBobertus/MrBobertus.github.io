@@ -1,0 +1,106 @@
+body {
+  background-color: #1e1e1e;
+  color: #e0e0e0;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  margin: 0;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  min-height: 100vh;
+  padding-top: 30px;
+  box-sizing: border-box;
+}
+
+.page-title {
+  font-size: 2.5em;
+  font-weight: 300;
+  margin-bottom: 20px;
+  text-align: center;
+}
+
+.content-wrapper {
+  flex-grow: 1;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  width: 100%;
+  align-items: center;
+  padding-bottom: 5vh;
+}
+
+.input-area {
+  width: 800px;
+  max-width: 90%;
+  display: flex;
+  flex-direction: column;
+  box-shadow: 0 4px 15px rgba(0, 0, 0, 0.3);
+  border-radius: 8px;
+}
+
+#answer-text {
+  display: none;
+  background-color: #282828;
+  color: #c0c0c0;
+  padding: 25px 20px;
+  border: 1px solid #3a3a3a;
+  border-bottom: none;
+  border-radius: 8px 8px 0 0;
+  font-size: 1em;
+  line-height: 1.6;
+  min-height: 70px;
+  max-height: 300px;
+
+  white-space: pre-wrap;
+
+  overflow-wrap: break-word;
+  word-wrap: break-word;
+  overflow-y: auto;
+  overflow-x: hidden;
+}
+
+#answer-text::-webkit-scrollbar {
+  width: 8px;
+}
+#answer-text::-webkit-scrollbar-track {
+  background: #282828;
+  border-radius: 0 8px 0 0;
+}
+#answer-text::-webkit-scrollbar-thumb {
+  background: #555;
+  border-radius: 4px;
+}
+#answer-text::-webkit-scrollbar-thumb:hover {
+  background: #666;
+}
+
+#main-input {
+  width: 100%;
+  padding: 18px 20px;
+  font-size: 1.1em;
+  background-color: #2c2c2c;
+  color: #e0e0e0;
+  border: 1px solid #3a3a3a;
+  border-radius: 8px;
+  box-sizing: border-box;
+  outline: none;
+  transition: border-radius 0.2s ease-in-out;
+}
+
+#main-input:focus {
+  border-color: #007bff;
+  box-shadow: 0 0 0 0.2rem rgba(0, 123, 255, 0.15);
+}
+
+#main-input::placeholder {
+  color: #777;
+}
+
+.input-area.answer-visible #main-input {
+  border-top-left-radius: 0;
+  border-top-right-radius: 0;
+  border-top-color: #3a3a3a;
+}
+
+.input-area.answer-visible {
+  border-radius: 0;
+}
