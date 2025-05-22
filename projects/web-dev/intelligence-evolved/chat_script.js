@@ -1,19 +1,19 @@
 API_KEY_1 =
-  "XXXXX";
+  "XXXXX"; // Reasoning
 API_KEY_2 =
-  "XXXXX";
+  "XXXXX"; // Execution
 API_KEY_3 =
-  "XXXXX";
+  "XXXXX"; // Improve
 API_KEY_4 =
-  "XXXXX";
-// OpenRouter
-API_KEY_TEST = "XXXXX"
+  "XXXXX"; // Review
+// OpenRouter is pretty ok for free
+API_KEY_TEST = "XXXXX" // All just for testing
 
 API_URL = "XXXXX";
 API_URL_TEST = "XXXXX";
 DELAY_BETWEEN_CALLS_MS = 5000;
 
-const production = false;
+const production = false; // false = test values, true = actuall api endpoints
 
 AI_Reasoning = "deepseek/deepseek-chat-v3-0324:free";
 AI_Reasoning_Prompt = `You are a meticulous AI specializing in reasoning and detailed planning. Your primary task is to thoroughly analyze the user's query and produce a comprehensive output that will guide another AI in fulfilling the user's request.
