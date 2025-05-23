@@ -8,7 +8,7 @@ This repository is organized as follows:
 
 *   [`portfolio/`](https://github.com/MrBobertus/MrBobertus.github.io/tree/main/portfolio): My main portfolio website, showcasing my skills and projects. You can view it live [here](https://MrBobertus.github.io/portfolio).
 *   [`projects/`](https://github.com/MrBobertus/MrBobertus.github.io/tree/main/projects): A collection of individual projects, demonstrating various techniques and technologies:
-    *   [`projects/web-dev/`](https://github.com/MrBobertus/MrBobertus.github.io/tree/main/projects/web-dev): Web and application development projects, primarily using HTML, CSS, JavaScript, and Java.
+    *   [`projects/web-dev/`](https://github.com/MrBobertus/MrBobertus.github.io/tree/main/projects/web-dev): Web and application development projects, primarily using HTML, CSS and JavaScript.
     *   [`projects/game-dev/`](https://github.com/MrBobertus/MrBobertus.github.io/tree/main/projects/game-dev): Game development projects. (Currently unused)
 
 ## Portfolio
@@ -67,4 +67,4 @@ Each project within this repository has its own `LICENSE` file, specifying the t
 
 ---
 
-*Last updated: 19.05.2025*
+*Last updated: 23.05.2025*
