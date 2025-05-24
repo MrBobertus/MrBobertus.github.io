@@ -1,6 +1,6 @@
 @font-face {
   font-family: "csgo";
-  src: url("/font/csgo.ttf");
+  src: url("./font/csgo.ttf");
 }
 
 body {
@@ -9,7 +9,7 @@ body {
   margin: 0;
   padding: 0;
   overflow: hidden;
-  background-image: url("/img/background.jpg");
+  background-image: url("./img/background.jpg");
   background-size: cover;
   background-repeat: no-repeat;
   backdrop-filter: blur(15px);
