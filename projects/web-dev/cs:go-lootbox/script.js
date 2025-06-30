@@ -154,7 +154,7 @@ function generateWheel() {
         visualItemList.push(`<li class="wheel-item rarity-${item.rarity}">${item.item}</li>`)
     });
 
-    visualItemList.join("")
+    visualItemList = visualItemList.join("")
     list.innerHTML = visualItemList
     list.style.transform = `translateX(48%)`;
   }
