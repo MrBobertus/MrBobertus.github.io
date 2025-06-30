@@ -105,6 +105,7 @@ function generateWheel() {
   if (spinning == false) {
     let items = [];
     let visualItems = [];
+      let visualItemList = [];
     const text = document.getElementById("text").value;
     const list = document.getElementById("list");
 
@@ -150,9 +151,11 @@ function generateWheel() {
     }
 
     visualItems.forEach((item) => {
-      list.innerHTML += `<li class="wheel-item rarity-${item.rarity}">${item.item}</li>`;
+        visualItemList.push(`<li class="wheel-item rarity-${item.rarity}">${item.item}</li>`)
     });
 
+    visualItemList.join("")
+    list.innerHTML = visualItemList
     list.style.transform = `translateX(48%)`;
   }
 }
