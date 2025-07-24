@@ -73,9 +73,8 @@ const removeBackgroundFormTemplate = `
                     >Hintergrundfarbe (Hex-Code)</label
                   >
                   <input
-                    type="text"
+                    type="color"
                     id="selectColor"
-                    placeholder="#ffffff"
                     class="w-full px-4 py-2 border border-[var(--border-color)] rounded-md shadow-sm focus:outline-none focus:border-[var(--primary-color)]"
                   />
                 </div>
