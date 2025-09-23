@@ -68,6 +68,7 @@ function playAudio(id, playbackSpeed) {
   id = id.toString();
   let audio = document.getElementById(id);
   audio.playbackRate = playbackSpeed || 1;
+  audio.volume = 0.5;
   audio.play();
 }
 
@@ -245,3 +246,4 @@ document.getElementById("output-container").addEventListener("click", function (
       }
   }
 });
+
