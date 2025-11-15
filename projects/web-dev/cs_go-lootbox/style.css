@@ -1,6 +1,6 @@
 @font-face {
   font-family: "csgo";
-  src: url("https://mrbobertus.github.io/projects/web-dev/cs:go-lootbox/font/csgo.ttf");
+  src: url("https://mrbobertus.github.io/projects/web-dev/cs_go-lootbox/font/csgo.ttf");
 }
 
 body {
@@ -9,7 +9,7 @@ body {
   margin: 0;
   padding: 0;
   overflow: hidden;
-  background-image: url("https://mrbobertus.github.io/projects/web-dev/cs:go-lootbox/img/background.jpg");
+  background-image: url("https://mrbobertus.github.io/projects/web-dev/cs_go-lootbox/img/background.jpg");
   background-size: cover;
   background-repeat: no-repeat;
   backdrop-filter: blur(15px);
@@ -104,3 +104,4 @@ body {
   border-color: rgb(255, 0, 0);
    background-image: linear-gradient(rgb(146, 146, 146), rgb(201, 201, 201), rgb(255, 0, 0));;
 }
+
