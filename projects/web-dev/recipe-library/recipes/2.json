@@ -1,0 +1,28 @@
+{
+  "id": 2,
+  "name": "Weizen Brot",
+  "info": [
+    "Arbeitszeit: 30 Minuten",
+    "Backzeit: 45 Minuten",
+    "Gesamtzeit: 75 Minuten"
+  ],
+  "zutaten": [
+    "500g Weizenmehl",
+    "350ml Wasser lauwarm",
+    "1 EL Olivenöl",
+    "2 TL Salz",
+    "1 TL Zucker",
+    "1 Pck. Trockenhefe"
+  ],
+  "ablauf": [
+    "Mehl und alle Zutaten in eine Schüssel geben und verrühren, bis der Teig nicht mehr klebt.",
+    "Schüssel mit einem Tuch abdecken und 30 Minuten gehen lassen.",
+    "Eine 500 g Kastenform mit Backpapier auskleiden.",
+    "Arbeitsfläche, Teig und Hände mehlieren.",
+    "Teig aus der Schüssel heben und per Hand auf Spannung kneten.",
+    "Teig in die Form geben und mit Wasser glatt streichen.",
+    "Einen Längsschnitt machen und in den kalten Backofen schieben.",
+    "Backzeit beginnt, wenn 170 °C Ober-/Unterhitze erreicht sind, ca. 40 Min. backen."
+  ],
+  "bild": "https://img.chefkoch-cdn.de/rezepte/2497421392380064/bilder/1481198/crop-960x640/einfaches-weizenbrot.jpg"
+}

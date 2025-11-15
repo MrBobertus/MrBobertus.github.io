@@ -1,0 +1,237 @@
+:root {
+    --color-primary: #171717;
+    --color-secondary: #f3f3f3;
+    --color-background: #ffffff;
+    --color-accent: #424242;
+    --color-border: #afafaf;
+    --color-success: #57f37c;
+    --color-success-hover: #9ff1b1;
+    --color-failure: #cc2525;
+    --color-failure-hover: #f08c8c;
+}
+
+* {
+    transition-property: color, background-color, border-color, text-decoration-color, fill, stroke;
+    transition-timing-function: cubic-bezier(0.4, 0, 0.2, 1);
+    transition-duration: 150ms;
+}
+
+body {
+    background-color: var(--color-background);
+    font-family: "Sora", sans-serif;
+    color: var(--color-primary);
+
+    display: flex;
+    justify-content: center;
+    align-items: flex-start;
+    height: 100vh;
+    width: 100vw;
+
+    margin: 0;
+    padding: 0;
+}
+
+main {
+    width: 70%;
+    height: 50%;
+
+    padding: 3%;
+}
+
+.header {
+    font-weight: 700;
+    font-size: 3rem;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.header p {
+    padding: 0;
+    margin: 0;
+}
+
+.newProjectButton, .bank-transfer, .section-transfer, .action-button{
+    background-color: var(--color-primary);
+    border: none;
+    border-radius: 10px;
+    color: var(--color-secondary);
+    font-weight: 600;
+    font-size: 1.5rem;
+
+    padding: 1rem;
+    margin: 0;
+
+    cursor: pointer;
+}
+
+.bank-transfer, .section-transfer {
+    margin: 1rem;
+}
+
+.newProjectButton:hover, .bank-transfer:hover, .section-transfer:hover, .delete-project:hover, .action-button:hover {
+    background-color: var(--color-accent);
+    transform: scale(1.02);
+}
+
+.home {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+
+    width: 100%;
+    height: 28%;
+
+    margin-top: 4%;
+}
+
+.bank, .projects {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+
+    width: 48%;
+    height: 100%;
+
+    background-color: var(--color-secondary);
+    border-radius: 24px;
+    border: var(--color-accent) solid 1px;
+}
+
+.block {
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+    align-items: center;
+
+    width: 40%;
+
+    gap: 5%;
+    padding: 5%;
+}
+
+.w-8 {
+    width: 3rem;
+    height: 3rem;
+}
+
+.name, .project-name {
+    font-weight: 500;
+    color: var(--color-accent);
+    font-size: 1.2rem;
+    padding: 0;
+    margin: 0;
+    margin-bottom: 9%;
+}
+
+.balance, .project-balance {
+    font-weight: 700;
+    color: var(--color-primary);
+    font-size: 2rem;
+    padding: 0;
+    margin: 0;
+}
+
+.project-grid {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    grid-template-rows: repeat(4, 1fr);
+
+    width: 100%;
+    height: auto;
+
+    gap: 5%;
+    margin-top: 4%;
+}
+
+.project {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+
+    width: 100%;
+    height: auto;
+
+    padding: 1%;
+
+    background-color: var(--color-background);
+    border: var(--color-border) solid 1px;
+    border-radius: 24px;
+
+    box-sizing: border-box;
+}
+
+.delete-project {
+    width: 4rem;
+    height: 4rem;
+
+    background-color: var(--color-background);
+    border: var(--color-failure) solid 1px;
+    border-radius: 18px;
+
+    margin: 1rem;
+}
+
+.delete-project:hover {
+    background-color: var(--color-failure-hover);
+    cursor: pointer;
+}
+
+.action-background-fade {
+    visibility: hidden;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    position: fixed;
+    top: 0;
+    left: 0;
+
+    width: 100%;
+    height: 100%;
+
+    background-color: rgba(0, 0, 0, 0.55);
+}
+
+.background-fade-inner {
+    display: flex;
+    flex-direction: column;
+    position: relative;
+
+    width: 20%;
+    height: auto;
+
+    padding: 1%;
+    border-radius: 15px;
+
+    background-color: var(--color-secondary);
+}
+
+.background-fade-inner p, .background-fade-inner select, .background-fade-inner input, .background-fade-inner button {
+    font-weight: 600;
+    font-size: 1.5rem;
+    margin: 0.5rem;
+    padding: 1rem
+}
+
+.close-action-interface {
+    position: absolute;
+    top: 0;
+    right: 0;
+
+    width: 4rem;
+    height: 4rem;
+
+    background: transparent;
+    border: none;
+
+    margin: 1rem;
+}
+
+.close-action-interface:hover {
+    color: var(--color-failure);
+    cursor: pointer;
+}
