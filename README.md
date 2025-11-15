@@ -12,7 +12,7 @@ This repository is organized as follows:
 
 ## Portfolio
 
-My portfolio website is a live demonstration of my front-end development skills (HTML, CSS (Tailwind CSS, and JavaScript). It provides an overview of my experience and links to my key projects.
+My new and improved portfolio website is a live demonstration of my front-end development skills (currently build with HTML, CSS & Tailwind CSS, and JavaScript). It provides an overview of my experience and links to my key projects.
 
 *   **Live Site:** [https://mrbobertus.netlify.app](https://mrbobertus.netlify.app)
 
